@@ -1,4 +1,4 @@
-# Swency
+
 👋 Hi, I’m swency, currently pursuing data scientist with proven proficiency in Python, Java, ML and SQL, coupled with hands-on experience in data cleaning, visualization, and model development. 
 Adept at collaborating with cross-functional teams and continuously learning to stay abreast of industry trends. 
 Excited to leverage academic achievements and practical skills to make meaningful contributions to data-driven projects.
